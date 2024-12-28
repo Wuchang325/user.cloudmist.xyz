@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://user.fastbuilder.pro",
+  "homepage": "https://user.cloudmist.xyz",
   "bin": {
     "webpages": "bin/app.js"
   },
